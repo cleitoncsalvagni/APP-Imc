@@ -20,5 +20,8 @@ export default function ResultImc(props) {
       </TouchableOpacity>
     </View> 
    </View>
+
+//Teste de compartilhamento
+
   );
 }
